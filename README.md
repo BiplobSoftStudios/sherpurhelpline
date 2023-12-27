@@ -1,1 +1,90 @@
-# sherpurhelpline
+{
+  "item1": [
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_upazila/images/New%20OC.jpg",
+      "name": "জনাব রেজাউল করিম",
+      "role": "অফিসার ইনচার্জ (ওসি) শেরপুর থানা",
+      "phone": "০১৩২০-১২৬৭৯৯"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/2OC.jpg",
+      "name": "জনাব মোঃ আজমগীর হোসেন",
+      "role": "পুলিশ পরিদর্শক (তদন্ত) শেরপুর থানা",
+      "phone": "০১৩২০-১২৬৮০০"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/bd%20police%20logo.png",
+      "name": "ডিউটি অফিসার",
+      "role": "শেরপুর থানা",
+      "phone": "০১৩২০-১২৬৮০৪"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/bd%20police%20logo.png",
+      "name": "ডিউটি অফিসার",
+      "role": "পুলিশ ফাঁড়ি",
+      "phone": "+880"
+    }
+  ],
+  "item2": [
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/%E0%A6%B9%E0%A6%BE%E0%A6%87%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87_%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6.jpg",
+      "name": "হাইওয়ে পুলিশ",
+      "role": "বগুড়া রিজিয়ন কন্ট্রোলরুম",
+      "phone": "০১৭৬৯-৬৯০৬৩৫"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/traffic%20police.jpg",
+      "name": "ট্রাফিক পুলিশ",
+      "role": "শেরপুর",
+      "phone": "+880"
+    }
+  ],
+  "item3": [
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/rab%20logo.png",
+      "name": "সিপিসি-৩ (বগুড়া ক্যাম্প)",
+      "role": "কোম্পানী কমান্ডার",
+      "phone": "০১৭৭৭-৭১১২৩৩"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/rab%20logo.png",
+      "name": "র‌্যাপিড এ্যাকশন ব্যাটালিয়ন (র‌্যাব) -১২",
+      "role": "কন্ট্রোল রুম",
+      "phone": "০১৭৭৭-৭১১২৯৯"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/rab%20logo.png",
+      "name": "ফোন ডিরেক্টরি (র‌্যাব)",
+      "role": "যে কোন ব্যাটালিয়ানের সাথে যোগাযোগ করতে অনুসন্ধান করুন",
+      "phone": "https://www.rab.gov.bd/phone-directory?csrt=8109086750399777891"
+    }
+  ],
+  "item4": [
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/db%20police%20logo.jpg",
+      "name": "অফিসার ইনচার্জ (ডিবি) বগুড়া",
+      "role": "প্রয়োজনে যোগাযোগ করুন",
+      "phone": "01320-126903"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/db%20police%20logo.jpg",
+      "name": "ফেসবুক পেইজ (ডিবি) বগুড়া",
+      "role": "প্রয়োজনে যোগাযোগ করুন",
+      "phone": "https://www.facebook.com/ocdb.bogura/"
+    }
+  ],
+  "item5": [
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/village%20police%20logo.jpg",
+      "name": "গ্রাম পুলিশ শেরপুর",
+      "role": "প্রয়োজনীয় সেবামূলক তথ্য সংযোজনের কার্যক্রম চলমান",
+      "phone": "+880"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/ovidas00/Sherpur-Sheba/main/tab_law/images/village%20police%20logo.jpg",
+      "name": "গ্রাম পুলিশ শেরপুর",
+      "role": "প্রয়োজনীয় সেবামূলক তথ্য সংযোজনের কার্যক্রম চলমান",
+      "phone": "+880"
+    }
+  ]
+}
